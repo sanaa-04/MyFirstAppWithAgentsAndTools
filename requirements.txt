@@ -19,4 +19,5 @@ langchain_groq
 fastapi
 uvicorn
 langserve
+duckduckgo-search
 sse_starlette
